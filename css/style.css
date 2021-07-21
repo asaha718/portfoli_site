@@ -237,7 +237,7 @@ a:hover{
     overflow: hidden;
 }
 .separetor{
-    border-bottom: 3px solid #898989;
+    border-bottom: 3px solid white;
     overflow: hidden;
     padding:3px 0px;
     width: 8%;
@@ -329,7 +329,7 @@ a:hover{
 	transition:.6s;
 }
 .navbar-default .navbar-nav>li>a {
-    color: #777;
+    color: white; 
     text-transform: uppercase;
     font-size: 14px;
 }
@@ -361,7 +361,7 @@ a:hover{
 /* Banner section */
 
 .banner{
-	background:url(../images/bannerbg.jpg) no-repeat;
+	background:url(../images/queenssunset.jpg) no-repeat;
 	position:relative;
 	background-size:cover;
 }
@@ -372,12 +372,12 @@ a:hover{
 }
 
 .single_banner_text h2{
-	color:#333b46;
+	color:white;
 	font-weight:500;
 }
 .single_banner_text h5{
 	font-size:16px;
-	color:#81868e;
+	color:white;
 	font-family:'opensans-regular';
 	font-weight:100;
 	letter-spacing:.37rem;
