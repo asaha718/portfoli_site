@@ -611,6 +611,9 @@ a:hover{
     margin: 21% auto;
 	color:#fff;
 }
+.overlay_content h6{ 
+	color: white;
+}
 
 /* service Section */
 
@@ -994,12 +997,15 @@ color:#fff;
 .contact{
 	padding:100px 0px;
 }
-.messsage_contant{
+/* .messsage_contant{
 	padding-top:60px;
-}
+} */
 
 .single_message_right{
 	padding:20px;
+	display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .single_message_right p{
 	margin-top:30px;
